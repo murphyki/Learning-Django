@@ -5,9 +5,12 @@ Learning pythons django web framework
 - https://www.djangoproject.com/
 
 ####Youtube Videos
-- CodeAcademy: https://www.youtube.com/playlist?list=PLoDk0fP8MgnL1U8b4Ry9GIIsDE7mVP9gk
-- CodeAcademy: https://www.youtube.com/playlist?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx
-- Mike Hibbert: https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD
+- CodeAcademy - Django Fundamentals:
+	- https://www.youtube.com/playlist?list=PLoDk0fP8MgnL1U8b4Ry9GIIsDE7mVP9gk
+- CodeAcademy - Try Django Tutorial Series
+	- https://www.youtube.com/playlist?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx
+- Mike Hibbert
+	- https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD
 
 ####Books
 - 
